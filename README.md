@@ -17,4 +17,4 @@ Shows available disk space from a mounted drivers directory (if present)
 Shows total, used, and free memory in human readable format using free -h
 
 
-Link:- https://github.com/Max-out-00/Server-Performance-Stats.git
+Link :- https://roadmap.sh/projects/server-stats
